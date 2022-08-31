@@ -56,6 +56,11 @@ require_once('Files/header.php');
                   <div class="invalid-feedback">Please enter your last name!</div>
                 </div>
                 <div class="col-sm-6">
+                  <label class="form-label" for="reg-ln">user Name</label>
+                  <input class="form-control" name='user_name' type="text" required id="reg-ln">
+                  <div class="invalid-feedback">Please enter your user name!</div>
+                </div>
+                <div class="col-sm-6">
                   <label class="form-label" for="reg-email">E-mail Address</label>
                   <input class="form-control" name="email" type="email" required id="reg-email">
                   <div class="invalid-feedback">Please enter valid email address!</div>
@@ -64,6 +69,11 @@ require_once('Files/header.php');
                   <label class="form-label" for="reg-phone">Phone Number</label>
                   <input class="form-control" name="phone_number" type="text" required id="reg-phone">
                   <div class="invalid-feedback">Please enter your phone number!</div>
+                </div>
+                <div class="col-sm-6">
+                  <label class="form-label" for="reg-ln">address</label>
+                  <input class="form-control" name='address' type="text" required id="reg-ln">
+                  <div class="invalid-feedback">Please enter your address!</div>
                 </div>
                 <div class="col-sm-6">
                   <label class="form-label" for="reg-password">Password</label>

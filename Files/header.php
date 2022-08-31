@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Cartzilla | Fashion Store v.1</title>
+    <title>Lemonz | Fashion Store v.1</title>
     <!-- SEO Meta Tags-->
-    <meta name="description" content="Cartzilla - Bootstrap E-commerce Template">
+    <meta name="description" content="Lemonz - Bootstrap E-commerce Template">
     <meta name="keywords" content="bootstrap, shop, e-commerce, market, modern, responsive,  business, mobile, bootstrap, html5, css3, js, gallery, slider, touch, creative, clean">
     <meta name="author" content="Createx Studio">
     <!-- Viewport-->
@@ -218,16 +218,16 @@
           <div class="container">
             <div class="topbar-text dropdown d-md-none"><a class="topbar-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Useful links</a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="tel:00331697720"><i class="ci-support text-muted me-2"></i>(00) 33 169 7720</a></li>
+                <li><a class="dropdown-item" href="tel:0757477053"><i class="ci-support text-muted me-2"></i>(256) 757477053</a></li>
                 <li><a class="dropdown-item" href="order-tracking.html"><i class="ci-location text-muted me-2"></i>Order tracking</a></li>
               </ul>
             </div>
-            <div class="topbar-text text-nowrap d-none d-md-inline-block"><i class="ci-support"></i><span class="text-muted me-1">Support</span><a class="topbar-link" href="tel:00331697720">(00) 33 169 7720</a></div>
+            <div class="topbar-text text-nowrap d-none d-md-inline-block"><i class="ci-support"></i><span class="text-muted me-1">Support</span><a class="topbar-link" href="tel:0757477053">(+256) 757477053</a></div>
             <div class="tns-carousel tns-controls-static d-none d-md-block">
               <div class="tns-carousel-inner" data-carousel-options="{&quot;mode&quot;: &quot;gallery&quot;, &quot;nav&quot;: false}">
-                <div class="topbar-text">Free shipping for order over $200</div>
+                <div class="topbar-text">Free shipping for orders over $200</div>
                 <div class="topbar-text">We return money within 30 days</div>
-                <div class="topbar-text">Friendly 24/7 customer support</div>
+                <div class="topbar-text">Friendly 24/7 customer support system</div>
               </div>
             </div>
             <div class="ms-3 text-nowrap"><a class="topbar-link me-4 d-none d-md-inline-block" href="order-tracking.html"><i class="ci-location"></i>Order tracking</a>
@@ -239,6 +239,7 @@
                       <option value="eur">€ EUR</option>
                       <option value="ukp">£ UKP</option>
                       <option value="jpy">¥ JPY</option>
+                      <option value="ugx">Ug Shs</option>
                     </select>
                   </li>
                   <li><a class="dropdown-item pb-1" href="#"><img class="me-2" src="img/flags/fr.png" width="20" alt="Français">Français</a></li>
@@ -252,7 +253,7 @@
         <!-- Remove "navbar-sticky" class to make navigation bar scrollable with the page.-->
         <div class="navbar-sticky bg-light">
           <div class="navbar navbar-expand-lg navbar-light">
-            <div class="container"><a class="navbar-brand d-none d-sm-block flex-shrink-0" href="index-2.html"><img src="img/logo-dark.png" width="142" alt="Cartzilla"></a><a class="navbar-brand d-sm-none flex-shrink-0 me-2" href="index-2.html"><img src="img/logo-icon.png" width="74" alt="Cartzilla"></a>
+            <div class="container"><a class="navbar-brand d-none d-sm-block flex-shrink-0" href="index-2.html"><img src="img/logo-dark.png" width="142" alt="Lemonz"></a><a class="navbar-brand d-sm-none flex-shrink-0 me-2" href="index-2.html"><img src="img/logo-icon.png" width="74" alt="Lemonz"></a>
               <div class="input-group d-none d-lg-flex mx-4">
                 <input class="form-control rounded-end pe-5" type="text" placeholder="Search for products"><i class="ci-search position-absolute top-50 end-0 translate-middle-y text-muted fs-base me-3"></i>
               </div>
@@ -615,7 +616,7 @@
                             <div class="ms-2"><span class="d-block text-heading">Changelog<span class="badge bg-success ms-2">v2.4.0</span></span><small class="d-block text-muted">Regular updates</small></div>
                           </div></a></li>
                       <li class="dropdown-divider"></li>
-                      <li><a class="dropdown-item" href="mailto:support@createx.studio">
+                      <li><a class="dropdown-item" href="mailto:philemonnyombi21@gmail.com">
                           <div class="d-flex">
                             <div class="lead text-muted pt-1"><i class="ci-help"></i></div>
                             <div class="ms-2"><span class="d-block text-heading">Support</span><small class="d-block text-muted">support@createx.studio</small></div>
